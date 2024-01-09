@@ -7,6 +7,7 @@ va applicato uno sconto del 20% per i minorenni
 va applicato uno sconto del 40% per gli over 65
 
 - chiedere l'età al passeggiero
+
 - chiedere il nummero di chilometri che vuole percorrere
 
 - moltiplicare il numero di km per 0.21 € per ottenere il prezzo totale
